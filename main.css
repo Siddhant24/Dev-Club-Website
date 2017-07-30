@@ -1,0 +1,35 @@
+header {
+  text-align: center;
+}
+
+.container{
+  text-align: center;
+}
+
+.btn-col {
+  font-size: 30px;
+}
+
+#latest {
+  position: relative;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 10px;
+  background: #ededed;
+}
+
+#project-name {
+  font-size: 20px;
+}
+
+#iitd {
+  width: 65px;
+  height: 60px;
+}
+
+.font_0 {
+    font: normal normal normal 45px/1.1em 'Fredericka the Great',fantasy;
+    color: #000000;
+}
