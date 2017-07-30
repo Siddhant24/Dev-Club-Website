@@ -52,3 +52,14 @@ header {
     font: normal normal normal 28px/1.1em 'Fredericka the Great',fantasy;
     color: #000000;
 }
+
+/* projects page styles */
+
+.project-item {
+  margin-top : 30px;
+}
+
+.project-description {
+  padding-left: 30px;
+  padding-bottom: 50px;
+}
