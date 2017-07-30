@@ -6,6 +6,23 @@ header {
   text-align: center;
 }
 
+footer{
+  margin-top: 100px;
+}
+
+.footer {
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  height: 100px;
+  text-align: center;
+}
+
+.footer-item {
+  height: 50px;
+  border-left: 2px solid white;
+}
+
 /* Homepage styles */
 
 .btn-col {
