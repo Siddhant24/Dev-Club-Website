@@ -6,6 +6,8 @@ header {
   text-align: center;
 }
 
+/* Homepage styles */
+
 .btn-col {
   font-size: 30px;
 }
@@ -31,5 +33,22 @@ header {
 
 .font_0 {
     font: normal normal normal 45px/1.1em 'Fredericka the Great',fantasy;
+    color: #000000;
+}
+
+/* about us page styles */
+
+.about-us-box {
+  position: relative;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 10px;
+  background: #ededed;
+}
+
+.font_2 {
+    font: normal normal normal 28px/1.1em 'Fredericka the Great',fantasy;
     color: #000000;
 }
